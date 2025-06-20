@@ -13,3 +13,4 @@ MarkupSafe==3.0.2
 itsdangerous==2.1.2
 click==8.1.8
 SQLAlchemy==2.0.32
+email-validator
